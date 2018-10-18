@@ -1,0 +1,47 @@
+#status_list {
+	position: absolute;
+	left   : 24%;
+  bottom: 12;
+	width  : 7.9vw;
+	/* opacity: 1; */
+}
+
+#status_list2 {
+	position: absolute;
+	left   : 24%;
+  bottom: 12;
+	width  : 7.9vw;
+	opacity: 0.5;
+}
+
+.status {
+	/* padding: 1px;  */
+	 margin: 0.06em;
+}
+
+
+.status_inner {
+  /* padding: 1px; */
+	 margin: 0.06em;
+}
+
+.status_val {
+	height : 4vh;
+}
+
+img#imgHud {
+  position: absolute;
+  left: 20.5;
+  bottom: 13.3;
+  height: 17.9vh;
+  width: 33vw;
+}
+/* 
+div.divHud {
+  position: absolute;
+  left: 20.5;
+  bottom: 13.3;
+  background-color: rgba(51, 51, 51, 0.4);
+  height: 17.9vh;
+  width: 30vw;
+} */
