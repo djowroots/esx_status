@@ -1,3 +1,5 @@
+# Oldstyle status to fit hud
+
 # fxserver-esx_status
 FXServer ESX Status
 [INSTALLATION]
